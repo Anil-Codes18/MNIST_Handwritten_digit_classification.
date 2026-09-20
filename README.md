@@ -1,23 +1,32 @@
-# MNIST_Handwritten_digit_classification.
+🧠 MNIST_Handwritten_digit_classification.
+""Open In Colab (https://colab.research.google.com/drive/1wuv_SNOsAuLGJyDUoiQ_g7OtLNsSndEG?usp=sharing)
 
-## Description
-A Deep Learning project for classifying handwritten digits (0–9) using the MNIST dataset and a neural network model.
+📌 About
 
-## Technologies Used
-- Python
-- TensorFlow
-- Keras
-- NumPy
-- Matplotlib
+This project focuses on Deep Learning using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
 
-## Dataset
+🛠️ Tools & Libraries
+
+.Python 
+
+.TensorFlow
+
+.Keras
+
+.NumPy
+
+.Matplotlib
+
+.Google Colab
+
+📂 Dataset
 MNIST Handwritten Digit Dataset.
 
 *Training Images: 60,000
 *Testing Images: 10,000
 *Image Size: 28 × 28 pixels
 
-## Methodology
+🚀 Methodology
 1)Load MNIST Dataset
 
 2)Data Preprocessing
@@ -32,8 +41,8 @@ MNIST Handwritten Digit Dataset.
 
 7)Make Predictions
 
-## Objective
+🎯Objective
 To build a Deep Learning model that can recognize and classify handwritten digits from 0 to 9.
 
-## Author
+👨‍💻 Author
 AnilKumar F Sangal

@@ -19,11 +19,17 @@ MNIST Handwritten Digit Dataset.
 
 ## Methodology
 1)Load MNIST Dataset
+
 2)Data Preprocessing
+
 3)Build Neural Network Model
+
 4)Compile the Model
+
 5)Train the Model
+
 6)Evaluate Accuracy
+
 7)Make Predictions
 
 ## Objective
